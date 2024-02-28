@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2Liw4vFwX5WrKPMZMGjyQm2Mxc0e/ReX5XGkBPwmnuyd/QX25qgxP3xeIrF7Q6WfGwIL94dfl78tgHyzgEPvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TabaxmelaPC\\Desktop\\Tamos\\BookManagmentStudioApp\\BookManagmentApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TabaxmelaPC\\.nuget\\packages\\faker.net\\2.0.163\\faker.net.2.0.163.nupkg.sha512",
+    "C:\\Users\\TabaxmelaPC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TabaxmelaPC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
